@@ -12,9 +12,16 @@ div {
 }
 
 h2 {
-    background-color: cadetblue;
+    background-color:darkcyan;
+}
+
+img {
+    size: 200vmax;
+    border: 8%;
+    border-radius: 10pc;
 }
 
 h3 {
+    background-color: darkolivegreen;
     color: bisque;
 }
